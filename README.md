@@ -1,0 +1,1 @@
+Site clone do facebook, criado para fins didaticos.
